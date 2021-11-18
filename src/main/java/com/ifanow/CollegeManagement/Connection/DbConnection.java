@@ -29,6 +29,7 @@ public class DbConnection {
             System.out.println("Connection working");
         } else {
             System.out.println("Connection not working");
+            System.out.println("Connection not working");
         }
         return connection;
     }
